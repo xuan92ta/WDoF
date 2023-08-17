@@ -2,7 +2,7 @@
 
 This is our PyTorch implementation for the paper:
 
-> Modeling Preference as Weighted Distribution over Functions for User Cold-start Recommendation.
+> Jingxuan Wen, Huafeng Liu and Liping Jing. 2023. Modeling Preference as Weighted Distribution over Functions for User Cold-start Recommendation. In Proceedings of the 32nd ACM International Conference on Information and Knowledge Management
 
 
 
@@ -10,7 +10,7 @@ This is our PyTorch implementation for the paper:
 
 - To characterize the uncertainty in the user decision process, we model user preference as weighted distribution over functions, with the aid of neural processes.
 - To capture the global intent and obtain a more stable learning process, we further consider intra-user uncertainty and inter-user importance respectively.
-- We theoretically prove that the proposed model can achieve a lower generalization error bound than regular neural process based recommendation methods.
+- We provide a theoretical explanation that why the proposed model performs well than regular neural process based recommendation methods.
 - Extensive experiments have been conducted on four wildly used benchmark datasets, demonstrating significant improvements over several state-of-the-art baselines.
 
 
