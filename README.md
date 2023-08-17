@@ -2,7 +2,7 @@
 
 This is our PyTorch implementation for the paper:
 
-> Jingxuan Wen, Huafeng Liu and Liping Jing. 2023. Modeling Preference as Weighted Distribution over Functions for User Cold-start Recommendation. In Proceedings of the 32nd ACM International Conference on Information and Knowledge Management
+> Jingxuan Wen, Huafeng Liu and Liping Jing. 2023. Modeling Preference as Weighted Distribution over Functions for User Cold-start Recommendation. In Proceedings of the 32nd ACM International Conference on Information and Knowledge Management.
 
 
 
